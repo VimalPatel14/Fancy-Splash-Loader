@@ -1,8 +1,8 @@
 # Fancy-Splash-Loader
 
-> Android Fancy dots loader
+##  Android Fancy dots loader
 
-> A replacement of default android material progressbar with dots loader
+##  A replacement of default android material progressbar with dots loader
 
 ![lazyloader](https://github.com/VimalPatel14/Fancy-Splash-Loader/blob/master/sc/1.gif)      ![tashieloader](https://github.com/VimalPatel14/Fancy-Splash-Loader/blob/master/sc/2.gif)
 
