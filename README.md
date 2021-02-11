@@ -1,5 +1,3 @@
-# Fancy-Splash-Loader
-
 ##  Android Fancy dots loader
 
 ##  A replacement of default android material progressbar with dots loader
